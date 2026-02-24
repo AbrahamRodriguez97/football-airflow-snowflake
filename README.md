@@ -13,7 +13,8 @@
 
 ## Architecture / Arquitectura
 
-[Image of Data Engineering Architecture showing Airflow Docker Snowflake and Python integration]
+<img width="1914" height="909" alt="image" src="https://github.com/user-attachments/assets/1b31dde5-b410-4609-82ad-e77604f018b1" />
+
 
 1. **Extraction (Python/Pandas):** Local data generation/extraction.
 2. **Orchestration (Airflow):** Automated workflow management.
@@ -22,7 +23,7 @@
 
 ---
 
-## 🛠️ Tech Stack / Tecnologías
+## Tech Stack / Tecnologías
 
 | Tool / Herramienta | Purpose / Propósito |
 | :--- | :--- |
@@ -34,7 +35,7 @@
 
 ---
 
-## 🚀 Key Features / Características Clave
+## Key Features / Características Clave
 
 * **Bilingual Documentation:** Detailed instructions in English and Spanish.
 * **Modern Airflow Syntax:** Uses the latest TaskFlow API (`@dag`, `@task`).
@@ -43,7 +44,7 @@
 
 ---
 
-## 📖 Setup & Usage / Configuración y Uso
+## Setup & Usage / Configuración y Uso
 
 ### Prerequisites / Requisitos
 * Docker Desktop
@@ -51,6 +52,6 @@
 * Snowflake Account
 
 ### Steps / Pasos
-1. **Clone the repo:** `git clone https://github.com/your-user/soccer-airflow-snowflake.git`
+1. **Clone the repo:** `git clone https://github.com/AbrahamRodriguez97/football-airflow-snowflake`
 2. **Start the environment:** `astro dev start`
 3. **Configure Connection
