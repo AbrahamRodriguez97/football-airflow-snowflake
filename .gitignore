@@ -1,0 +1,21 @@
+# Astro & Airflow internals
+.astro/
+.env
+airflow_settings.yaml
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+webserver_config.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Data (Keep your repo light)
+include/*.csv
+include/*.gz
+
+# OS specific
+.DS_Store
